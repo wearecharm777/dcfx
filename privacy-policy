@@ -1,34 +1,52 @@
 Privacy Policy
 App: DigiCamFX Photo Filters
-Effective Date: March 16, 2026
-DigiCamFX Photo Filters ("the App") respects your privacy.
-1. Data We Collect
-We do not collect, store, transmit, or share personal data from users.
-2. Photo Library Access
-The App may request access to your Photo Library so you can:
+Effective Date: September 26, 2026
 
-Select photos to edit
-Save edited photos back to your library
+DigiCamFX Photo Filters ("the App") respects your privacy. This policy explains what the App collects, why, and the choices you have.
 
-Photo editing is performed on your device. We do not upload your photos to our servers.
-3. Subscriptions and Payments
-The App offers auto-renewable subscriptions (weekly and yearly).
-All payments and subscription processing are handled by Apple through StoreKit and the App Store.
-We do not receive your full payment card details.
-Apple may process purchase-related data according to Apple's own privacy policy.
-4. Third-Party Services
-The App does not use third-party analytics SDKs, ad networks, or tracking tools for user profiling.
-5. Data Retention and Deletion
-Because we do not collect personal data on our servers, we do not retain server-side personal data and therefore have no server-side personal data to delete.
-6. Children's Privacy
-The App is not intended to collect personal information from children, and we do not knowingly collect such information.
-7. Your Choices
-You can manage or revoke Photo Library permission at any time in:
-iOS Settings > Privacy & Security > Photos > DigiCamFX Photo Filters
-You can manage or cancel subscriptions in:
-iOS Settings > [your name] > Subscriptions
-8. Changes to This Policy
-We may update this Privacy Policy from time to time. The "Effective Date" above will reflect the latest version.
-9. Contact
-If you have questions about this Privacy Policy, contact:
-**charmboi777[at]gmail.com**
+1. Summary
+- Your photos and videos are edited on your device. They are never uploaded to us or anyone else.
+- The App collects anonymous usage analytics through PostHog, an analytics service, so we can see which features are used and whether things like saving and purchasing work.
+- We do not collect your name, email address, contacts, precise location, or advertising identifier.
+- We do not show ads, sell your data, or track you across other companies' apps or websites.
+
+2. Camera, Microphone, and Photo Library
+- Camera: used to take photos and videos in the App.
+- Microphone: used only while you record video, so your videos have sound.
+- Photo Library: you choose photos and videos to edit with Apple's photo picker, so the App only receives the items you select. When you save, the App asks for permission to add photos and videos to your library.
+All editing happens on your device. Your photos, videos, and their file names or metadata are never uploaded or included in analytics.
+
+3. Data Stored on Your Device
+Your saved edits, their preview thumbnails, and your app settings are stored only on your device and are removed when you delete the App.
+
+4. Analytics
+To understand how the App is used, fix problems, and improve features, the App sends the following to PostHog:
+- App usage: screens opened; which filters, textures, stickers, editing tools, and camera controls you use and their settings; whether imports, captures, saves, and exports succeed or fail (with technical error codes); and how long these take.
+- Subscription activity: when the subscription screen appears, which plan is selected, the plan's listed price and currency, the amount charged as reported by the App Store, and whether a purchase or restore completes, is cancelled, or fails.
+- Device and app information: device model, operating system version, app version, language and region settings, time zone, screen size, and whether you are on Wi-Fi or cellular.
+- A random identifier the App creates on your device so events from the same installation can be grouped. It is not your Apple ID or an advertising identifier, and it resets if you delete the App.
+- Your IP address, which PostHog receives when the App sends data and may use to estimate an approximate location (such as country or city).
+This data is not linked to your name or any account, and we do not use it for advertising. PostHog processes it on our behalf as a service provider, on servers in the United States, and is required to protect it at least as well as this policy describes.
+
+5. Subscriptions and Payments
+The App offers auto-renewable subscriptions (weekly and yearly). Payments are handled by Apple through the App Store, and we never receive your payment card details. The App checks your purchase status with Apple on your device to unlock Pro features. Apple handles purchase data under its own privacy policy.
+
+6. Sharing
+We do not sell or rent your data. We share it only with the service providers described above, or when required by law.
+
+7. Data Retention and Deletion
+Analytics data is kept for up to 12 months and then deleted. Because it is tied to a random identifier rather than to you, we usually cannot tell which data is yours, but you can email us with a deletion request and we will do what we can. Deleting the App removes everything stored on your device and resets the analytics identifier.
+
+8. Your Choices
+- Camera, microphone, and photo access: iOS Settings > Privacy & Security > Camera, Microphone, or Photos > DigiCamFX
+- Subscriptions: iOS Settings > [your name] > Subscriptions
+- Analytics: deleting the App stops all data collection. You can also email us with any request about your data.
+
+9. Children's Privacy
+The App is not directed to children under 13, and we do not knowingly collect personal information from children.
+
+10. Changes to This Policy
+We may update this policy from time to time. The Effective Date above shows the latest version.
+
+11. Contact
+Questions about this policy or your data: charmboi777[at]gmail.com
